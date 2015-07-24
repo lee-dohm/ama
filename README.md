@@ -12,7 +12,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 * Use a succinct title and description.
 * Bugs & feature requests should be opened on the relevant issue tracker.
 * Support questions are better asked on Stack Overflow.
-* Be civil and polite :)
+* Be civil and polite :grinning:
 
 ### Links
 
